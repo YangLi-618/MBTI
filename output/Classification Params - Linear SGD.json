@@ -1,0 +1,6 @@
+{
+  "alpha": 1e-06,
+  "eta0": 0.001,
+  "learning_rate": "adaptive",
+  "penalty": "l2"
+}

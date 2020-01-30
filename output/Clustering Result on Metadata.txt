@@ -1,0 +1,4 @@
+           Name  Adjusted Rand Index  Homogeneity  Completeness  V-Measure  Fowlkes-Mallows Index
+0       K-Means            -0.003992     0.001525      0.001599   0.001561               0.534790
+1      Spectral            -0.004906     0.001204      0.001329   0.001263               0.548980
+2  Hierarchical            -0.005472     0.001463      0.001632   0.001543               0.551665

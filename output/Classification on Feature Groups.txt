@@ -1,0 +1,71 @@
+                Classifier                    Combination  Balanced Accuracy
+0     Gaussian Naive Bayes                       Metadata           0.501437
+1     Gaussian Naive Bayes                      Sentiment           0.500000
+2     Gaussian Naive Bayes                         TF-IDF           0.651883
+3     Gaussian Naive Bayes           Metadata + Sentiment           0.513435
+4     Gaussian Naive Bayes              Metadata + TF-IDF           0.679691
+5     Gaussian Naive Bayes             Sentiment + TF-IDF           0.651883
+6     Gaussian Naive Bayes  Metadata + Sentiment + TF-IDF           0.679691
+7    Bernoulli Naive Bayes                       Metadata           0.507645
+8    Bernoulli Naive Bayes                      Sentiment           0.491488
+9    Bernoulli Naive Bayes                         TF-IDF           0.772377
+10   Bernoulli Naive Bayes           Metadata + Sentiment           0.504831
+11   Bernoulli Naive Bayes              Metadata + TF-IDF           0.771574
+12   Bernoulli Naive Bayes             Sentiment + TF-IDF           0.772059
+13   Bernoulli Naive Bayes  Metadata + Sentiment + TF-IDF           0.770938
+14             K-Neighbors                       Metadata           0.506260
+15             K-Neighbors                      Sentiment           0.514409
+16             K-Neighbors                         TF-IDF           0.734497
+17             K-Neighbors           Metadata + Sentiment           0.501642
+18             K-Neighbors              Metadata + TF-IDF           0.560997
+19             K-Neighbors             Sentiment + TF-IDF           0.733931
+20             K-Neighbors  Metadata + Sentiment + TF-IDF           0.557951
+21                   Ridge                       Metadata           0.501456
+22                   Ridge                      Sentiment           0.500000
+23                   Ridge                         TF-IDF           0.782481
+24                   Ridge           Metadata + Sentiment           0.501138
+25                   Ridge              Metadata + TF-IDF           0.781846
+26                   Ridge             Sentiment + TF-IDF           0.781996
+27                   Ridge  Metadata + Sentiment + TF-IDF           0.780557
+28              Linear SGD                       Metadata           0.499682
+29              Linear SGD                      Sentiment           0.500000
+30              Linear SGD                         TF-IDF           0.774281
+31              Linear SGD           Metadata + Sentiment           0.499364
+32              Linear SGD              Metadata + TF-IDF           0.778776
+33              Linear SGD             Sentiment + TF-IDF           0.772339
+34              Linear SGD  Metadata + Sentiment + TF-IDF           0.789796
+35              Linear SVC                       Metadata           0.501942
+36              Linear SVC                      Sentiment           0.500485
+37              Linear SVC                         TF-IDF           0.813954
+38              Linear SVC           Metadata + Sentiment           0.501474
+39              Linear SVC              Metadata + TF-IDF           0.812312
+40              Linear SVC             Sentiment + TF-IDF           0.814740
+41              Linear SVC  Metadata + Sentiment + TF-IDF           0.814104
+42                 RBF SVC                       Metadata           0.504745
+43                 RBF SVC                      Sentiment           0.500000
+44                 RBF SVC                         TF-IDF           0.805088
+45                 RBF SVC           Metadata + Sentiment           0.510217
+46                 RBF SVC              Metadata + TF-IDF           0.657740
+47                 RBF SVC             Sentiment + TF-IDF           0.812352
+48                 RBF SVC  Metadata + Sentiment + TF-IDF           0.652250
+49           Decision Tree                       Metadata           0.503077
+50           Decision Tree                      Sentiment           0.501047
+51           Decision Tree                         TF-IDF           0.747285
+52           Decision Tree           Metadata + Sentiment           0.505415
+53           Decision Tree              Metadata + TF-IDF           0.737778
+54           Decision Tree             Sentiment + TF-IDF           0.744106
+55           Decision Tree  Metadata + Sentiment + TF-IDF           0.742130
+56           Random Forest                       Metadata           0.507412
+57           Random Forest                      Sentiment           0.501019
+58           Random Forest                         TF-IDF           0.792092
+59           Random Forest           Metadata + Sentiment           0.509326
+60           Random Forest              Metadata + TF-IDF           0.789578
+61           Random Forest             Sentiment + TF-IDF           0.792173
+62           Random Forest  Metadata + Sentiment + TF-IDF           0.780089
+63  Multi-layer Perceptron                       Metadata           0.500000
+64  Multi-layer Perceptron                      Sentiment           0.500000
+65  Multi-layer Perceptron                         TF-IDF           0.793153
+66  Multi-layer Perceptron           Metadata + Sentiment           0.499682
+67  Multi-layer Perceptron              Metadata + TF-IDF           0.829389
+68  Multi-layer Perceptron             Sentiment + TF-IDF           0.789848
+69  Multi-layer Perceptron  Metadata + Sentiment + TF-IDF           0.825754

@@ -1,0 +1,7 @@
+User # (Total): 8675
+User # (J): 3434
+User # (P): 5241
+
+Post # (Total): 422845
+Post # (J): 167110
+Post # (P): 255735

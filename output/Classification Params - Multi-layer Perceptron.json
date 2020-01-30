@@ -1,0 +1,8 @@
+{
+  "activation": "tanh",
+  "alpha": 0.01,
+  "hidden_layer_sizes": [
+    50
+  ],
+  "learning_rate": "adaptive"
+}

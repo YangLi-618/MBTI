@@ -1,0 +1,5 @@
+{
+  "alpha": 0.01,
+  "binarize": 0.0,
+  "fit_prior": false
+}
